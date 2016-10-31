@@ -1,0 +1,23 @@
+﻿body {
+}
+ .highlight {
+            background-color: green;
+}
+.list {
+    width: 370px;
+    border: 1px solid;
+}
+ul li{
+    width: 320px;
+    
+}
+.btns {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+#submit {
+    margin-left: 20px;
+}
+.Text {
+    margin-left: 20px;
+}
